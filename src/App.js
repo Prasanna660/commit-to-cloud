@@ -7,7 +7,7 @@ function App() {
         <h1>Peer-Mentor Learning Series Workshop 1</h1>
         <div className="user-info">
           <p><strong>Name:<Prasanna> 
-          <p><strong>USN:<12345/p>
+          <p><strong>USN:<12345>
         </div>
       </header>
     </div>
